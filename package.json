@@ -28,14 +28,12 @@
     "url": "https://github.com/deepstreamIO/deepstream.io-client-js.git"
   },
   "optionalDependencies": {
-    "utf-8-validate": "^1.2.1",
-    "bufferutil": "^1.2.1"
+    "utf-8-validate": "^4.0.2",
+    "bufferutil": "^3.0.5"
   },
   "dependencies": {
-    "bufferutil": "^1.2.1",
     "component-emitter": "1.1.2",
-    "utf-8-validate": "^1.2.1",
-    "ws": "^1.1.1"
+    "ws": "^5"
   },
   "browser": {
     "net": false,
